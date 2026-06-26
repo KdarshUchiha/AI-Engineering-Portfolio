@@ -1,0 +1,6 @@
+# Install with:  pip install -r requirements.txt
+#
+# The only dependency. Each project's retrieval / dashboard / agent logic is
+# written in the Python standard library so the code is fully readable; the
+# Anthropic SDK is used for the AI calls.
+anthropic>=0.111.0

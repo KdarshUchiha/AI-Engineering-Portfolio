@@ -1,0 +1,46 @@
+The Forward Deployed Engineer Role
+
+A Forward Deployed Engineer, often abbreviated FDE, is a software engineer who
+works directly alongside customers to build and ship software that solves the
+customer's specific problems. Unlike a traditional backend engineer who works
+inside one product team for months, an FDE is embedded with a client, learns
+their domain quickly, and delivers working solutions fast. The role was
+popularized by Palantir but now exists under many names across the industry:
+Solutions Engineer, Customer Engineer, Professional Services Engineer, and
+Deployment Strategist are all closely related titles.
+
+Core Responsibilities
+
+The job is roughly half strong software engineering and half customer-facing
+product and consulting work. On the engineering side, an FDE writes full-stack
+code, builds APIs, wrangles data pipelines, and increasingly integrates large
+language models and other AI capabilities into customer workflows. On the
+customer side, the FDE translates fuzzy business pain into a concrete technical
+solution, runs demos, manages stakeholders, and knows how to say no gracefully
+when a request is out of scope.
+
+Required Skills
+
+A strong FDE is fluent in at least one programming language, with Python being
+the most common choice for AI-heavy work. They understand HTTP and REST APIs,
+can write SQL to work with data, and are comfortable on the command line. They
+can build a usable frontend, deploy applications to the cloud (AWS knowledge is
+a significant advantage), and containerize software with Docker. On the AI side,
+they understand prompting, retrieval-augmented generation, agents, and how to
+evaluate whether an AI system is actually performing well.
+
+What Makes FDEs Different
+
+The single trait that separates great FDEs from ordinary engineers is the
+ability to ship working software quickly while staying close to the real
+customer problem. They are comfortable with ambiguity, they prototype fast, and
+they communicate clearly with both technical and non-technical audiences. A
+portfolio of things they have actually built and shipped matters far more than
+credentials when getting hired.
+
+Companies That Hire FDEs
+
+Most large technology companies hire for forward-deployed or solutions
+engineering roles, including Meta, Amazon, Apple, Netflix, and Google. The exact
+title varies, but the core expectation is the same: blend deep technical skill
+with customer empathy and the ability to deliver fast.
