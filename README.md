@@ -17,7 +17,7 @@ Every project is:
 |---|---------|----------------------------|--------|
 | 1 | [Smart Document Q&A (RAG)](./01-rag-document-qa) | Retrieval-Augmented Generation: chunking, embeddings, vector similarity, grounded + cited answers | ✅ |
 | 2 | [Real-Time Sentiment Dashboard](./02-sentiment-dashboard) | Structured outputs: forcing strict JSON from an LLM and computing on it; streaming aggregation | ✅ |
-| 3 | AI Customer-Support Agent | Tool use / agents | 🔜 |
+| 3 | [AI Customer-Support Agent](./03-support-agent) | Tool use / agents: Claude calls functions to look up real data, in a manual agent loop | ✅ |
 | 4 | Meeting Notes & Action-Item Bot | Speech-to-text + summarization | 🔜 |
 | 5 | SQL Copilot | Natural language → SQL → live results | 🔜 |
 | 6 | Multimodal Product Inspector | Vision models | 🔜 |
