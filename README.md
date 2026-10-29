@@ -20,7 +20,7 @@ Every project is:
 | 3 | [AI Customer-Support Agent](./03-support-agent) | Tool use / agents: Claude calls functions to look up real data, in a manual agent loop | ✅ |
 | 4 | [Meeting Notes & Action-Item Bot](./04-meeting-notes) | Long input → nested structured output (summary, decisions, owner-assigned action items); token counting | ✅ |
 | 5 | [SQL Copilot](./05-sql-copilot) | Text-to-SQL: schema grounding, natural language → SQL → live results, safe execution of model output | ✅ |
-| 6 | Multimodal Product Inspector | Vision models | 🔜 |
+| 6 | [Multimodal Product Inspector](./06-product-inspector) | Vision + structured output: inspect a product photo → condition, defects, catalog listing | ✅ |
 | 7 | Personalized Learning Tutor | Agentic loops + memory/state | 🔜 |
 | 8 | Code Review Assistant | Code understanding + GitHub API | 🔜 |
 | 9 | Live Translation & Caption Tool | Low-latency streaming | 🔜 |
