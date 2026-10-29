@@ -19,7 +19,7 @@ Every project is:
 | 2 | [Real-Time Sentiment Dashboard](./02-sentiment-dashboard) | Structured outputs: forcing strict JSON from an LLM and computing on it; streaming aggregation | ✅ |
 | 3 | [AI Customer-Support Agent](./03-support-agent) | Tool use / agents: Claude calls functions to look up real data, in a manual agent loop | ✅ |
 | 4 | [Meeting Notes & Action-Item Bot](./04-meeting-notes) | Long input → nested structured output (summary, decisions, owner-assigned action items); token counting | ✅ |
-| 5 | SQL Copilot | Natural language → SQL → live results | 🔜 |
+| 5 | [SQL Copilot](./05-sql-copilot) | Text-to-SQL: schema grounding, natural language → SQL → live results, safe execution of model output | ✅ |
 | 6 | Multimodal Product Inspector | Vision models | 🔜 |
 | 7 | Personalized Learning Tutor | Agentic loops + memory/state | 🔜 |
 | 8 | Code Review Assistant | Code understanding + GitHub API | 🔜 |
